@@ -1,0 +1,22 @@
+{
+  "name": "storymap-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTinker/storymap-server.git"
+  },
+  "author": "Chris Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevTinker/storymap-server/issues"
+  },
+  "homepage": "https://github.com/DevTinker/storymap-server#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
