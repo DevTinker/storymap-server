@@ -1,1 +1,1 @@
-# visible-plan-server
+# Story Map Server
