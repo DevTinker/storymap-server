@@ -18,7 +18,7 @@
   "homepage": "https://github.com/DevTinker/storymap-server#readme",
   "dependencies": {
     "chalk": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "socket.io": "^2.3.0"
   }
